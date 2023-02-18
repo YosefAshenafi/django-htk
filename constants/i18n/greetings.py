@@ -23,7 +23,7 @@ I18N_GREETINGS = {
         'Hola',
         'Como estas',
     ],
-    'eth' : [
+    'am' : [
         'ሰላም',
         'ጤና ይስጥልኝ',
     ],
